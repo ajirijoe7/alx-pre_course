@@ -1,8 +1,8 @@
-[33mcommit 129bf4ff11bc61606fd02e2a1eadff8c849000c7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[33mcommit 1f90f8174e54e21c1726293b33251e83e5690c27[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
 Author: Ajiroghene Jonathan O.Efe <ajirijoe@yahoo.com>
 Date:   Sat Aug 27 07:57:03 2022 -0700
 
-    starting to code today, so cool
+    Starting to code today, so cool
 
 [33mcommit a5b7f4e12b1762bb9522bddf2620685351267f0e[m
 Author: Ajiroghene Jonathan O.Efe <ajirijoe@yahoo.com>
